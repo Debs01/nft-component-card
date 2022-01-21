@@ -1,0 +1,91 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+}
+
+.card {
+    width: 400px;
+    height: 570px;
+    border-radius: 10px;
+    background-color: hsl(216, 50%, 16%);
+    margin-top: 50px;
+    margin-left: 500px;
+    padding-top: 20px;
+}
+
+.image {
+    background-image: url(./images/image-equilibrium.jpg);
+    width: 350px;
+    height: 300px;
+    background-size: cover;
+    background-position: center center;
+    margin-left: 25px;
+    border-radius: 5px;
+}
+
+.heading {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: hsl(0, 0%, 100%);
+    margin-left: 25px;
+}
+
+.paragraph {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: hsl(215, 51%, 70%);
+    margin-left: 25px;
+}
+
+.eth {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: hsl(178, 100%, 50%);
+    margin-left: 25px;
+}
+
+.clock {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: hsl(215, 51%, 70%);
+    position: absolute;
+    left: 750px;
+    top: 500px;
+}
+
+.picture {
+    width: 335px;
+    height: 80px;
+    border: 1px solid hsl(215, 51%, 70%);
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.avatar {
+    width: 50px; 
+    margin-left: 2px; 
+    margin-top: 15px;
+}
+
+.creation {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: hsl(215, 51%, 70%);
+    position: absolute;
+    top: 560px;
+    left: 610px;
+}
+
+.jules {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color:  hsl(0, 0%, 100%);
+}
